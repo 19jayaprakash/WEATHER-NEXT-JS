@@ -1,0 +1,5 @@
+<div className='flex h-full w-full justify-center align-center' >
+            <Lottie play loop animationData={AuthAnimation} className='w-full h-full'/>
+            <h2 className='text-4xl justify-center items-center'>Weather</h2>
+
+          </div>
